@@ -46,11 +46,12 @@ Para entender os resultados dos testes, siga os passos abaixo:
 ## 🛠️ Ferramentas Utilizadas
 
 -   **Google Sheets**: Para a elaboração e gestão do relatório de erros.
--   **VS Code**: Para análise do código-fonte.
+-   **VS Code**: Para criação do caso de teste automatizado.
 
 ---
 
 ## 👨‍💻 Autor
 
 -   **Daniela Lepinski Souto**
+
 - [![LinkedIn](https://www.linkedin.com/in/dlepinski)
